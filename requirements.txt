@@ -1,0 +1,5 @@
+streamlit>=1.57
+pypdf>=5.0
+pandas
+Pillow
+PyMuPDF
