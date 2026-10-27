@@ -1,3 +1,6 @@
+# Created By
+[Dushyant-coder](https://github.com/Dushyant-coder)
+
 # PDF toolkit
 
 A Streamlit dashboard for merging PDFs/images into one PDF, and splitting a PDF back apart.
